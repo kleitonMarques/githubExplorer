@@ -1,13 +1,7 @@
 import React from 'react';
 
 function App() {
-  console.log('caralho');
-
-  return (
-    <div>
-      <h1>Hello Word</h1>
-    </div>
-  );
+  return <h1>Hello Word</h1>;
 }
 
 export default App;
