@@ -1,8 +1,12 @@
 import React from 'react';
 
 function App() {
+  console.log('caralho');
+
   return (
-    <h1>Hello Word</h1>
+    <div>
+      <h1>Hello Word</h1>
+    </div>
   );
 }
 
